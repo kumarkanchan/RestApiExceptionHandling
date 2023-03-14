@@ -1,0 +1,7 @@
+http://localhost:9008/users/user/create
+http://localhost:9008/users/multiUsers/create
+http://localhost:9008/users/id/1
+http://localhost:9008/users/allusers
+http://localhost:9008/users/id/1/newAge/60
+http://localhost:9008/users/delete/id/3
+
